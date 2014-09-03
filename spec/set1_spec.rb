@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'rspec'
-require 'pry-debugger'
-require_relative '../set1.rb'
+require 'pry-byebug'
+require_relative '../problems/set1.rb'
 
 describe "Set1" do
   describe ".swap_small" do

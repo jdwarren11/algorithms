@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'rspec'
-require 'pry-debugger'
-require_relative '../arrays.rb'
+require 'pry-byebug'
+require_relative '../problems/arrays.rb'
 
 describe "ArrayUtil" do
   describe ".max" do

@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'rspec'
-require 'pry-debugger'
-require_relative '../stacks_queues.rb'
+require 'pry-byebug'
+require_relative '../problems/stacks_queues.rb'
 
 
 describe 'LinkedList' do 

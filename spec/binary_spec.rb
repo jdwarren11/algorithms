@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'rspec'
 require 'pry-byebug'
-require_relative '../binary.rb'
+require_relative '../problems/binary.rb'
 
 describe 'Tree' do 
   it 'should initialize with a first node' do
