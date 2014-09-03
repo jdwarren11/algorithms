@@ -4,7 +4,7 @@ This repository has a number of different algorithm problems from the cirriculum
 
 ### Summary of methods and algorithms 
 - Arrays (push, pop, stacks, queues)
-- Binary tree (create, order, traverse)
+- Binary tree (create new tree, balance tree, traverse tree)
 - Fibonacci
 - Hashes
 - Linked Lists
